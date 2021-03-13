@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 7e53467f51b2f4c75becdf57c676916b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7929312004721141907
+    second: pngfind.com-blue-flare-png-2916100_0
+  - first:
+      213: 6688819814641407230
+    second: pngfind.com-blue-flare-png-2916100_1
+  - first:
+      213: -7186054610657002553
+    second: pngfind.com-blue-flare-png-2916100_2
+  - first:
+      213: -4590870746709500164
+    second: pngfind.com-blue-flare-png-2916100_3
+  - first:
+      213: 50098664576735442
+    second: pngfind.com-blue-flare-png-2916100_4
+  - first:
+      213: -1906512135956231406
+    second: pngfind.com-blue-flare-png-2916100_5
+  - first:
+      213: -5341741882094991283
+    second: pngfind.com-blue-flare-png-2916100_6
+  - first:
+      213: -3505329837009957325
+    second: pngfind.com-blue-flare-png-2916100_7
+  - first:
+      213: 2219105864727690840
+    second: pngfind.com-blue-flare-png-2916100_8
+  - first:
+      213: -3698838284961349670
+    second: pngfind.com-blue-flare-png-2916100_9
+  - first:
+      213: -7638727262372802379
+    second: pngfind.com-blue-flare-png-2916100_10
+  - first:
+      213: -4100917849397357413
+    second: pngfind.com-blue-flare-png-2916100_11
+  - first:
+      213: -8995275477403918639
+    second: pngfind.com-blue-flare-png-2916100_12
+  - first:
+      213: 6027367333245394299
+    second: pngfind.com-blue-flare-png-2916100_13
+  - first:
+      213: -6155215686668891136
+    second: pngfind.com-blue-flare-png-2916100_14
+  - first:
+      213: 3048562487343636917
+    second: pngfind.com-blue-flare-png-2916100_15
+  - first:
+      213: -3378639498902366175
+    second: pngfind.com-blue-flare-png-2916100_16
+  - first:
+      213: 5027071941438867609
+    second: pngfind.com-blue-flare-png-2916100_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 367
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b49f095099415b89c25978d7ec294
+      internalID: -7929312004721141907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 367
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1214e8bab91f745e09dff3b138a87cc6
+      internalID: 6688819814641407230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 367
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0676cf9a730c2483f8e8d2587774e9b7
+      internalID: -7186054610657002553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 367
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037f5bf4999a946adb129b6a95212dc5
+      internalID: -4590870746709500164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 367
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c4352ebd33b43448c921b311e87402
+      internalID: 50098664576735442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_5
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 367
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eae09fafe14413f91ce58a851d4b79
+      internalID: -1906512135956231406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 217
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1b2406cfd846758d60a786bf85bd8
+      internalID: -5341741882094991283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 217
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da0dabb42a1a4c7cb4f1bfba9eb5bc6
+      internalID: -3505329837009957325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 217
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40706e62d10d34b968a9c690b7e44242
+      internalID: 2219105864727690840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 217
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966db6393dce6410787cf61f63d35076
+      internalID: -3698838284961349670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 217
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3621b5f29f12e438cb7a40a80bc14c95
+      internalID: -7638727262372802379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_11
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 217
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f978962dcea224badae30707fe8327dc
+      internalID: -4100917849397357413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef675ced6a745a0a3c07160d7447de
+      internalID: -8995275477403918639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 67
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371bb29429bbb447fb7f6fa08c848d05
+      internalID: 6027367333245394299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 67
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff80ad455dd3428590f0b4afd5d4b1c
+      internalID: -6155215686668891136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 67
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d992be483b2f74a339c16a731d9a7d9c
+      internalID: 3048562487343636917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_16
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 67
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e9bb647bd0143f490670234fe06f4c
+      internalID: -3378639498902366175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-blue-flare-png-2916100_17
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 67
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d57c524670a34fd48e6bf67312b355c
+      internalID: 5027071941438867609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
